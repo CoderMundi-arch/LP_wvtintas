@@ -364,7 +364,6 @@
   tl.fromTo('.hero__photo img', { scale: 1.06, opacity: 0 }, { scale: 1, opacity: 1, duration: 1.6, ease: 'expo.out', clearProps: 'transform' }, 0)
     .from(hw, { yPercent: 115, duration: 1, stagger: 0.045, ease: 'expo.out' }, 0.2)
     .fromTo('.hero__in-el', { opacity: 0, y: 24 }, { opacity: 1, y: 0, duration: 0.9, stagger: 0.1, clearProps: 'transform', onComplete: function () { document.querySelectorAll('.hero__in-el').forEach(function (x) { x.classList.add('is-in'); }); } }, 0.5)
-    .from('.hero__tag', { y: -16, opacity: 0, duration: 0.7 }, 0.8)
     .from('.ticker', { opacity: 0, duration: 1 }, 0.8);
 
   gsap.to('.hero__photo', { yPercent: 6, ease: 'none', scrollTrigger: { trigger: '.hero', start: 'top top', end: 'bottom top', scrub: true } });
