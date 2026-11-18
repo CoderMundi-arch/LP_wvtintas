@@ -1,0 +1,20 @@
+[
+ {"cat": "imobiliaria", "img": "demarcacao-acrilica-viaria-dnit-316", "name": "Demarcação Acrílica Viária – DNIT 3,16", "brand": "", "slug": "demarcacao-acrilica-viaria-dnit-316"},
+ {"cat": "imobiliaria", "img": "mazapiso-premium-2", "name": "Mazapiso Premium", "brand": "Maza", "slug": "mazapiso-premium-2"},
+ {"cat": "imobiliaria", "img": "mazacit", "name": "Mazacit", "brand": "Maza", "slug": "mazacit"},
+ {"cat": "imobiliaria", "img": "mazapiso-premium", "name": "Mazapiso Premium", "brand": "Maza", "slug": "mazapiso-premium"},
+ {"cat": "imobiliaria", "img": "acrilico-litoral-e-campo-borracha-liquida", "name": "Acrílico Litoral e Campo – Borracha Líquida", "brand": "", "slug": "acrilico-litoral-e-campo-borracha-liquida"},
+ {"cat": "imobiliaria", "img": "acrilico-premium-total-protect", "name": "Acrílico Premium Total Protect", "brand": "", "slug": "acrilico-premium-total-protect"},
+ {"cat": "automotiva", "img": "tinta-esmalte-sintetico-plus-automotivo-anjo-900ml-aluminio-opalescente", "name": "Tinta Esmalte Sintético Plus Automotivo 900ml Alumínio Opalescente", "brand": "Anjo", "slug": "tinta-esmalte-sintetico-plus-automotivo-anjo-900ml-aluminio-opalescente"},
+ {"cat": "automotiva", "img": "tinta-base-poliester-900ml-wanda", "name": "Tinta Base Poliéster 900ml", "brand": "Wanda", "slug": "tinta-base-poliester-900ml-wanda"},
+ {"cat": "automotiva", "img": "esmalte-poliuretano-branco-puro-675ml-skylack", "name": "Esmalte Poliuretano Branco Puro 675ml", "brand": "Skylack", "slug": "esmalte-poliuretano-branco-puro-675ml-skylack"},
+ {"cat": "automotiva", "img": "tinta-skylack-preto-global-lisa-gm-10-16", "name": "Tinta Preto Global Lisa GM 10/16", "brand": "Skylack", "slug": "tinta-skylack-preto-global-lisa-gm-10-16"},
+ {"cat": "automotiva", "img": "thinner-para-poliester-e-poliuretano-900ml-lazzuril-thinner-p-pe-pu-0900q-lazzuril", "name": "Thinner para Poliéster e Poliuretano 900ml", "brand": "Lazzuril", "slug": "thinner-para-poliester-e-poliuretano-900ml-lazzuril"},
+ {"cat": "automotiva", "img": "lazzudur-pu", "name": "Lazzudur PU", "brand": "Lazzuril", "slug": "lazzudur-pu"},
+ {"cat": "automotiva", "img": "primer-e-verniz", "name": "Primer e Verniz", "brand": "", "slug": "primer-e-verniz"},
+ {"cat": "automotiva", "img": "thinner-5000", "name": "Thinner 5000", "brand": "", "slug": "thinner-5000"},
+ {"cat": "industrial", "img": "tinta-epoxi-profissional-kit-sv-36-litros-cores-nf-e", "name": "Tinta Epóxi Profissional Kit SV 3,6 Litros – Cores", "brand": "SV", "slug": "tinta-epoxi-profissional-kit-sv-36-litros"},
+ {"cat": "industrial", "img": "mazapoxi-kit-m298-ii", "name": "Mazapoxi Kit M298 II", "brand": "Maza", "slug": "mazapoxi-kit-m298-ii"},
+ {"cat": "industrial", "img": "weg-epoxi-multiuso-galao", "name": "WEG Epóxi Multiuso – Galão", "brand": "WEG", "slug": "weg-epoxi-multiuso-galao"},
+ {"cat": "industrial", "img": "tinta-maza-alta-temperatura", "name": "Tinta Maza Alta Temperatura", "brand": "Maza", "slug": "tinta-maza-alta-temperatura"}
+]
