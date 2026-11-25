@@ -101,6 +101,12 @@
       if (n) { e.preventDefault(); selectTab(n, true); }
     });
   });
+  document.querySelectorAll('[data-cat-link]').forEach(function (a) {
+    a.addEventListener('click', function () {
+      var tab = document.getElementById('tab-' + a.dataset.catLink);
+      if (tab) selectTab(tab);
+    });
+  });
   document.querySelectorAll('[data-more]').forEach(function (b) {
     var label = b.querySelector('span');
     var orig = label.textContent;
@@ -130,7 +136,7 @@
     img.src = d.img; img.alt = d.name + (d.brand ? ' – ' + d.brand : '');
     pmodal.querySelector('.pmodal__cat').textContent = d.cat;
     pmodal.querySelector('h3').textContent = d.name;
-    pmodal.querySelector('.pmodal__brand').textContent = d.brand ? 'Marca: ' + d.brand : '';
+    pmodal.querySelector('.pmodal__brand').textContent = [d.brand ? 'Marca: ' + d.brand : '', d.tag || ''].filter(Boolean).join(' · ');
     pmodal.querySelectorAll('[data-wa]').forEach(function (a) { a.href = waLink(a.dataset.wa, d.name); });
     pmodal.showModal();
     if (lenis) lenis.stop();

@@ -67,7 +67,7 @@ python3 -m http.server 8000
 ## Funcionalidades
 
 - Menu fixo responsivo, rolagem suave, animações discretas (desligam com "reduzir movimento")
-- Banner com a nova fachada, catálogo em abas com modal de detalhes e orçamento por produto via WhatsApp
+- Banner com a nova fachada, destaque de tinta automotiva à base d'água (Sikkens Autowave, AkzoNobel), catálogo em abas com modal de detalhes e orçamento por produto via WhatsApp
 - Serviços, galeria de resultados com lightbox, logos de clientes
 - Formulário de orçamento que abre o WhatsApp da loja escolhida com a mensagem pronta
 - Duas lojas com mapa (carregado sob demanda), WhatsApp, ligação e "como chegar"
